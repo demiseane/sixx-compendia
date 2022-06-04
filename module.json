@@ -1,0 +1,59 @@
+{
+    "name": "DemiData",
+    "title": "DM Demi's Module",
+    "author": "DM Demi",
+    "description": "Demi's Personal Module for DnD",
+	"version": "1.0",
+	"compatibleCoreVersion": "9",
+    "packs": [
+        {
+            "name": "actorz",
+            "label": "Actorz",
+            "type": "Actor",
+            "path": "/packs/actorz.db",
+            "entity": "Actor",
+            "module": "dm-demis-module"
+        },
+        {
+            "name": "scenez",
+            "label": "Scenez",
+            "type": "Scene",
+            "path": "/packs/scenez.db",
+            "entity": "Scene",
+            "module": "dm-demis-module"
+        },
+        {
+            "name": "itemz",
+            "label": "Itemz",
+            "type": "Item",
+            "path": "/packs/itemz.db",
+            "entity": "Item",
+            "module": "dm-demis-module"
+        },
+        {
+            "name": "musicz",
+            "label": "Musicz",
+            "type": "Playlist",
+            "path": "/packs/musicz.db",
+            "entity": "Playlist",
+            "module": "dm-demis-module"
+        },
+        {
+            "name": "tablez",
+            "label": "Tablez",
+            "type": "RollTable",
+            "path": "/packs/tablez.db",
+            "entity": "RollTable",
+            "module": "dm-demis-module"
+        },
+        {
+            "name": "journalz",
+            "label": "Journalz",
+            "type": "JournalEntry",
+            "path": "/packs/journalz.db",
+            "entity": "JournalEntry",
+            "module": "dm-demis-module"
+        }
+    ]
+    
+}
