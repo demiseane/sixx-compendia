@@ -5,6 +5,8 @@
     "description": "Demi's Personal Module for DnD",
 	"version": "1.0",
 	"compatibleCoreVersion": "9",
+	"url": "https://github.com/demiseane/dm-demi-mod/edit/main/module.json"
+	"manifest": "https://raw.githubusercontent.com/demiseane/dm-demi-mod/main/module.json"
     "packs": [
         {
             "name": "actorz",
