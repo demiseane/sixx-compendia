@@ -6,7 +6,7 @@
 	"version": "1.0",
 	"minimumCoreVersion": "9",
 	"compatibleCoreVersion": "9",
-	"url": "https://github.com/demiseane/sixx-mod/blob/main/module.json"
+	"url": "https://github.com/demiseane/sixx-mod/blob/b54e61c8342e0d4791a42f82dc3fd43b31a37131/module.json"
 	"manifest": "https://raw.githubusercontent.com/demiseane/sixx-mod/main/module.json"
     "packs": [
         {
