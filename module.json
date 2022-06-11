@@ -1,61 +1,20 @@
 {
-    "name": "DemiData",
+    "name": "sixx-contentmod",
     "title": "DM Demi's Module",
     "author": "DM Demi",
     "description": "Demi's Personal Module for DnD",
 	"version": "1.0",
+	"minimumCoreVersion": "9",
 	"compatibleCoreVersion": "9",
-	"url": "https://github.com/demiseane/dm-demi-mod/edit/main/module.json"
-	"manifest": "https://raw.githubusercontent.com/demiseane/dm-demi-mod/main/module.json"
+	"url": "https://github.com/demiseane/sixx-mod/edit/main/module.json"
+	"manifest": "https://raw.githubusercontent.com/demiseane/sixx-mod/main/module.json"
     "packs": [
         {
-            "name": "actorz",
-            "label": "Actorz",
+            "name": "transfer",
+            "label": "transfer",
             "type": "Actor",
-            "path": "/packs/actorz.db",
+            "path": "./packs/transfer.db",
             "entity": "Actor",
-            "module": "dm-demis-module"
-        },
-        {
-            "name": "scenez",
-            "label": "Scenez",
-            "type": "Scene",
-            "path": "/packs/scenez.db",
-            "entity": "Scene",
-            "module": "dm-demis-module"
-        },
-        {
-            "name": "itemz",
-            "label": "Itemz",
-            "type": "Item",
-            "path": "/packs/itemz.db",
-            "entity": "Item",
-            "module": "dm-demis-module"
-        },
-        {
-            "name": "musicz",
-            "label": "Musicz",
-            "type": "Playlist",
-            "path": "/packs/musicz.db",
-            "entity": "Playlist",
-            "module": "dm-demis-module"
-        },
-        {
-            "name": "tablez",
-            "label": "Tablez",
-            "type": "RollTable",
-            "path": "/packs/tablez.db",
-            "entity": "RollTable",
-            "module": "dm-demis-module"
-        },
-        {
-            "name": "journalz",
-            "label": "Journalz",
-            "type": "JournalEntry",
-            "path": "/packs/journalz.db",
-            "entity": "JournalEntry",
-            "module": "dm-demis-module"
         }
     ]
-    
 }
