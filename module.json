@@ -4,7 +4,7 @@
     "description": "A collection of my content.",
     "version": "1.0.0",
     "author": "Sixx",
-    "minimumCoreVersion": "1.0,
+    "minimumCoreVersion": "1.0",
     "compatibleCoreVersion": "9",
     "packs": [
         {
