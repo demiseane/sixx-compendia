@@ -8,45 +8,45 @@
     "compatibleCoreVersion": "9",
     "packs": [
         {
-            "name": "Sixx-Actors",
-            "label": "Sixx Actors",
-            "path": "./packs/actors.db",
+            "name": "_actor",
+            "label": "_Actor",
+            "path": "./packs/actor.db",
             "entity": "Actor"
         },
         {
-            "name": "Sixx-items",
-            "label": "Sixx Items",
-            "path": "./packs/items.db",
+            "name": "_item",
+            "label": "_Item",
+            "path": "./packs/item.db",
             "entity": "Item"
         },
         {
-            "name": "Sixx-scenes",
-            "label": "Sixx Scenes",
-            "path": "./packs/scenes.db",
+            "name": "_scene",
+            "label": "_Scene",
+            "path": "./packs/scene.db",
             "entity": "Scene"
         },
         {
-            "name": "Sixx-journal-entries",
-            "label": "Sixx Journal Entries",
-            "path": "./packs/journal-entries.db",
+            "name": "_journal",
+            "label": "_Journal",
+            "path": "./packs/journal.db",
             "entity": "JournalEntry"
         },
         {
-            "name": "Sixx-macros",
-            "label": "Sixx Macros",
-            "path": "./packs/macros.db",
+            "name": "_macro",
+            "label": "_Macro",
+            "path": "./packs/macro.db",
             "entity": "Macro"
         },
         {
-            "name": "Sixx-roll-tables",
-            "label": "Sixx Roll Tables",
-            "path": "./packs/roll-tables.db",
+            "name": "_rolls",
+            "label": "_Rolls",
+            "path": "./packs/rolls.db",
             "entity": "RollTable"
         },
         {
-            "name": "Sixx-playlists",
-            "label": "Sixx Playlists",
-            "path": "./packs/playlists.db",
+            "name": "_playlist",
+            "label": "_Playlist",
+            "path": "./packs/playlist.db",
             "entity": "Playlist"
         }
     ],
