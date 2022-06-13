@@ -1,20 +1,56 @@
 {
-    "name": "sixx-contentmod",
-    "title": "DM Demi's Module",
-    "author": "DM Demi",
-    "description": "Demi's Personal Module for DnD",
-	"version": "1.0",
-	"minimumCoreVersion": "9",
-	"compatibleCoreVersion": "9",
-	"url": "https://github.com/demiseane/sixx-mod/blob/b54e61c8342e0d4791a42f82dc3fd43b31a37131/module.json"
-	"manifest": "https://raw.githubusercontent.com/demiseane/sixx-mod/main/module.json"
+    "name": "Sixx-Content",
+    "title": "Sixx's Content Module",
+    "description": "A collection of my content.",
+    "version": "1.0.0",
+    "author": "Sixx",
+    "minimumCoreVersion": "1.0,
+    "compatibleCoreVersion": "9",
     "packs": [
         {
-            "name": "transfer",
-            "label": "transfer",
-            "type": "Actor",
-            "path": "./packs/transfer.db",
-            "entity": "Actor",
+            "name": "Sixx-Actors",
+            "label": "Sixx Actors",
+            "path": "./packs/actors.db",
+            "entity": "Actor"
+        },
+        {
+            "name": "Sixx-items",
+            "label": "Sixx Items",
+            "path": "./packs/items.db",
+            "entity": "Item"
+        },
+        {
+            "name": "Sixx-scenes",
+            "label": "Sixx Scenes",
+            "path": "./packs/scenes.db",
+            "entity": "Scene"
+        },
+        {
+            "name": "Sixx-journal-entries",
+            "label": "Sixx Journal Entries",
+            "path": "./packs/journal-entries.db",
+            "entity": "JournalEntry"
+        },
+        {
+            "name": "Sixx-macros",
+            "label": "Sixx Macros",
+            "path": "./packs/macros.db",
+            "entity": "Macro"
+        },
+        {
+            "name": "Sixx-roll-tables",
+            "label": "Sixx Roll Tables",
+            "path": "./packs/roll-tables.db",
+            "entity": "RollTable"
+        },
+        {
+            "name": "Sixx-playlists",
+            "label": "Sixx Playlists",
+            "path": "./packs/playlists.db",
+            "entity": "Playlist"
         }
-    ]
-}
+    ],
+    "manifest": " ",
+    "download": " "
+  }
+
