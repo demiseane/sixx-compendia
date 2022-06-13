@@ -50,7 +50,6 @@
             "entity": "Playlist"
         }
     ],
-    "manifest": " ",
-    "download": "https://github.com/demiseane/sixx-mod/blob/4c9c208254954de24c975100c851ecc909f827df/sixx-mod.zip"
+    "manifest": "https://raw.githubusercontent.com/demiseane/sixx-mod/main/module.json",
+    "download": "https://github.com/demiseane/sixx-mod/blob/67772c2094b385df693cee1e0d1f436d3e44fbc9/sixx-mod.zip"
   }
-
